@@ -1,3 +1,5 @@
+# dependency-lock is no longer actively maintained by VMware, Inc.
+
 # Gradle Dependency Lock (Experimental)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
